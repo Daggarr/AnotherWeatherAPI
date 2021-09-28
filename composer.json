@@ -1,0 +1,11 @@
+{
+    "name": "cyoode/weather-api",
+    "require": {
+        "nesbot/carbon": "^2.53"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
